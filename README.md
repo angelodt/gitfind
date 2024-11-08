@@ -1,3 +1,5 @@
+## Projeto para fins de estudo: Tem o objetivo de buscar no github informações básicas do usuário pesquisado e listar seus repositórios publicados.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
